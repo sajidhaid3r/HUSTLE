@@ -1,0 +1,9 @@
+#COMMAND BEGING USED
+
+Install google gen AI // pip install google-genai
+
+Install python 
+
+To install streamlit package through terminal // pip install streamlit 
+Use this command to read the documentation of streamlit // py -m streamlit hello 
+Use this command to run your program which consist of streamlit // py -m streamlit "filename" 
